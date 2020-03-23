@@ -40,14 +40,14 @@ Z hlediska poskytování informací k danému místu se uživatelé dělí na 2 
 - oficiální zástupce místa (pověření zaměstnanci prodejny - může jich být více)
 
 Běžní uživatelé do systému vkládají své aktuální (subjektivní) vnímání situace - navštíví dané místo a na (barevné a číselné) škále vyberou, jak moc (vnímají), že je místo plné: 
-1 - jsem tam sám / 0 - 10% kapacity prodejny
-2 - je tam jen pár lidí na rozlehlý prostor / 11% - 20% kapacity prodejny
-3 - jsou tam nějací lidé, ale odstupy lze obvykle velmi dobře dodržovat / 21% - 35% kapacity prodejny
-5 - je tam lidí "tak normálně" / 36% - 60% kapacity prodejny
-6 - je tam hodně lidí / 60% - 80% kapacity prodejny
-7 - je tam opravdu hodně lidí / 81% - 100% kapacity prodejny
-8 - je tam narváno / Kapacita prodejny byla překročena
-9 - nedá se tam pohnout / Kapacita prodejny byla značně překročena
+- 1 - jsem tam sám / 0 - 10% kapacity prodejny
+- 2 - je tam jen pár lidí na rozlehlý prostor / 11% - 20% kapacity prodejny
+- 3 - jsou tam nějací lidé, ale odstupy lze obvykle velmi dobře dodržovat / 21% - 35% kapacity prodejny
+- 5 - je tam lidí "tak normálně" / 36% - 60% kapacity prodejny
+- 6 - je tam hodně lidí / 60% - 80% kapacity prodejny
+- 7 - je tam opravdu hodně lidí / 81% - 100% kapacity prodejny
+- 8 - je tam narváno / Kapacita prodejny byla překročena
+- 9 - nedá se tam pohnout / Kapacita prodejny byla značně překročena
 
 případně speciální stav (zavřeno)
 
