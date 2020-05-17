@@ -1,4 +1,14 @@
 # avoid-crowd
+
+# Project status: postponed indefinitely
+
+# Related or similar projects / features:
+
+- FreMEn contra COVID - https://chronorobotics.fel.cvut.cz/cs/ai-vs-covid
+
+- Google Popular Times feature: https://support.google.com/business/answer/6263531?hl=en
+
+# Description
 Application to help people avoid crowds in shops etc.
 
 For Czech description see below.
